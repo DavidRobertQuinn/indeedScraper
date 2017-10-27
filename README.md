@@ -1,2 +1,2 @@
 # indeedScraper
-Script that check indeed.com for data positions in a particular location
+Script that checks indeed.com daily for data positions in a particular location.
